@@ -1,1 +1,2 @@
 new file has beenn addded to my github repository 
+addding new line to reflect only in branch 2 of repository
